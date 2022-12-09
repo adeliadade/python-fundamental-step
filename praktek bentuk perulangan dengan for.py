@@ -1,5 +1,5 @@
 """
-program perulangan penjualan gelang
+program perulangan penjualan gelang dengan for
 """
 
 jumlah_stok_gelang = 40
